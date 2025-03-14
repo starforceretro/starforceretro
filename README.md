@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @starforceretro
-- 👀 I’m interested in gaming, retro gaming, writing and designing websites 
+- 👀 I’m interested in gaming, retro gaming, writing and designing websites and just coding in general
 - 🌱 I’m currently learning python, C# and HTML/CSS
 - 📫 How to reach me on my email starnation060@gmail.com 
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I love James Camerons avatar a bit too micj 
+- ⚡ Fun fact: I love James Camerons avatar a bit too much
 
 
 (wip)
